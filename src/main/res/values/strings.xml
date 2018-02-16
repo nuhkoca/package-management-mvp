@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">Package List</string>
 
-    <string name="is_uninstalled_message">is uninstalled</string>
-    <string name="is_installed_message">is installed</string>
-    <string name="is_changed_message">is changed</string>
-    <string name="launching_package_message">Launching package:</string>
-    <string name="uninstalling_package_message">Uninstalling package:</string>
-    <string name="changing_package_message">Changing package:</string>
+    <string name="is_uninstalled_message"> is uninstalled</string>
+    <string name="is_installed_message"> is installed</string>
+    <string name="is_changed_message"> is changed</string>
+    <string name="launching_package_message">Launching package: </string>
+    <string name="uninstalling_package_message">Uninstalling package: </string>
+    <string name="changing_package_message">Changing package: </string>
     <string name="application_icon">Application Icon</string>
     <string name="launch">Launch</string>
     <string name="uninstall">Uninstall</string>

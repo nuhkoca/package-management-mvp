@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
@@ -60,12 +60,12 @@
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -82,10 +82,6 @@
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/color-v23_abc_tint_switch_thumb.xml.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fa939806d9879f08492c8b370aa1951b/res/color-v23/abc_tint_switch_thumb.xml"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
@@ -164,12 +160,12 @@
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -184,12 +180,12 @@
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -260,12 +256,12 @@
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable_abc_spinner_textfield_background_material.xml.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/color-v23_abc_tint_seek_thumb.xml.flat",
@@ -336,10 +332,6 @@
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media_custom.xml.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fa939806d9879f08492c8b370aa1951b/res/layout-v11/notification_template_big_media_custom.xml"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
@@ -404,16 +396,16 @@
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable_tooltip_frame_dark.xml.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
@@ -424,20 +416,16 @@
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/color-v23/abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/205886c45b789d959df938c21d558445/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media_narrow.xml.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fa939806d9879f08492c8b370aa1951b/res/layout-v11/notification_template_big_media_narrow.xml"
+        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/205886c45b789d959df938c21d558445/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -472,12 +460,12 @@
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/anim_abc_popup_enter.xml.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/anim/abc_popup_enter.xml"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/anim_abc_popup_enter.xml.flat",
+        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/anim/abc_popup_enter.xml"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -512,10 +500,6 @@
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fa939806d9879f08492c8b370aa1951b/res/layout-v11/notification_template_big_media_narrow_custom.xml"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
@@ -524,12 +508,12 @@
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable_abc_seekbar_thumb_material.xml.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -608,10 +592,6 @@
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/layout-v11_notification_media_action.xml.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fa939806d9879f08492c8b370aa1951b/res/layout-v11/notification_media_action.xml"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
@@ -644,32 +624,32 @@
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/layout/abc_action_menu_layout.xml"
     },
     {
+        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -730,10 +710,6 @@
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
-    },
-    {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/color_abc_tint_switch_thumb.xml.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fa939806d9879f08492c8b370aa1951b/res/color/abc_tint_switch_thumb.xml"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -860,12 +836,12 @@
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/layout_tooltip.xml.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -1088,6 +1064,10 @@
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable/abc_textfield_search_material.xml"
     },
     {
+        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/xml_backup.xml.flat",
+        "source": "/Users/nuhkoca/Desktop/suitepad-app/src/main/res/xml/backup.xml"
+    },
+    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
@@ -1204,10 +1184,6 @@
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/layout_abc_action_bar_view_list_nav_layout.xml.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fa939806d9879f08492c8b370aa1951b/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
@@ -1220,16 +1196,12 @@
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/anim_tooltip_enter.xml.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/anim/tooltip_enter.xml"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/layout-v11_notification_media_cancel_action.xml.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fa939806d9879f08492c8b370aa1951b/res/layout-v11/notification_media_cancel_action.xml"
+        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -1272,12 +1244,12 @@
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/color-v21_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/color-v21/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -1314,10 +1286,6 @@
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fa939806d9879f08492c8b370aa1951b/res/layout/notification_template_media_custom.xml"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -1374,10 +1342,6 @@
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fa939806d9879f08492c8b370aa1951b/res/layout/notification_template_media.xml"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/color-v23_abc_tint_spinner.xml.flat",
@@ -1480,10 +1444,6 @@
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media.xml.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fa939806d9879f08492c8b370aa1951b/res/layout-v11/notification_template_big_media.xml"
-    },
-    {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
@@ -1498,10 +1458,6 @@
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
-    },
-    {
-        "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
-        "source": "/Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fa939806d9879f08492c8b370aa1951b/res/layout/notification_template_lines_media.xml"
     },
     {
         "merged": "/Users/nuhkoca/Desktop/suitepad-app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",

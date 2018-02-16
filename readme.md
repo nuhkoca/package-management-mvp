@@ -10,3 +10,25 @@ Again, this should take approximately 30 minutes. This does not need to be a
 formal write-up - simple bullet points of your thoughts are enough.
 
 Good luck! We're eager to hear from you.
+
+
+# This project uses
+
+* MVP Design Pattern
+* Latest technologies
+
+
+# Project Purpose
+
+> A hiring process that SuitePad applies. 
+
+# Task List
+
+- [x] Project was made.
+- [x] Sent a mail to HR
+- [ ] Get hired by SuitePad
+
+
+# Screenshot
+
+![Screenshot](https://i.imgur.com/kldgel7.png)

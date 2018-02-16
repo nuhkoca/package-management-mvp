@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 3.0.1">
+
+    <issue
+        id="MergeRootFrame"
+        severity="Warning"
+        message="This `&lt;FrameLayout>` can be replaced with a `&lt;merge>` tag"
+        category="Performance"
+        priority="4"
+        summary="FrameLayout can be replaced with `&lt;merge>` tag"
+        explanation="If a `&lt;FrameLayout>` is the root of a layout and does not provide background or padding etc, it can often be replaced with a `&lt;merge>` tag which is slightly more efficient. Note that this depends on context, so make sure you understand how the `&lt;merge>` tag works before proceeding."
+        url="http://android-developers.blogspot.com/2009/03/android-layout-tricks-3-optimize-by.html"
+        urls="http://android-developers.blogspot.com/2009/03/android-layout-tricks-3-optimize-by.html"
+        errorLine1="&lt;FrameLayout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;"
+        errorLine2="^">
+        <location
+            file="/Users/nuhkoca/Desktop/suitepad-app/src/main/res/layout/activity_main.xml"
+            line="2"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.string.application_icon` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        errorLine1="    &lt;string name=&quot;application_icon&quot;>Application Icon&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="studio">
+        <location
+            file="/Users/nuhkoca/Desktop/suitepad-app/src/main/res/values/strings.xml"
+            line="10"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.string.launch` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        errorLine1="    &lt;string name=&quot;launch&quot;>Launch&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~"
+        quickfix="studio">
+        <location
+            file="/Users/nuhkoca/Desktop/suitepad-app/src/main/res/values/strings.xml"
+            line="11"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.string.uninstall` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        errorLine1="    &lt;string name=&quot;uninstall&quot;>Uninstall&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~"
+        quickfix="studio">
+        <location
+            file="/Users/nuhkoca/Desktop/suitepad-app/src/main/res/values/strings.xml"
+            line="12"
+            column="13"/>
+    </issue>
+
+</issues>
