@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/48d5557d11f9ee8e7ffddf0ec2430ef2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/94261568666a5fdee4eddc7e1827dc76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/7e4049116c0b67a60f9b687fe3797037/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/fac42ed934f299ea7914e29d7a1a8657/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/42a413f464d54c5dd0b129cd5a9589f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/02de263c77e1aaffcf807a6bd87dce21/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/205886c45b789d959df938c21d558445/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/631e6f453a4689d8c0d85e04d32fa950/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/48d5557d11f9ee8e7ffddf0ec2430ef2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/48d5557d11f9ee8e7ffddf0ec2430ef2/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:7:9-35
+	android:label
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:6:9-41
+	android:roundIcon
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:6:42-87
+	android:icon
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:5:45-79
+	android:allowBackup
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:5:18-44
+	android:theme
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:7:36-67
+activity#de.suitepad.packagelist.MainActivity
+ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:8:9-14:20
+	android:name
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:8:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:9:13-13:29
+action#android.intent.action.MAIN
+ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:10:17-69
+	android:name
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:12:27-74
+receiver#de.suitepad.packagelist.receivers.PackageChangedBroadcastReceiver
+ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:15:9-22:20
+	android:name
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:15:19-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_CHANGED+android.intent.action.PACKAGE_REMOVED
+ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:16:13-21:29
+data
+ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:17:17-50
+	android:scheme
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:17:23-47
+action#android.intent.action.PACKAGE_ADDED
+ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:18:17-78
+	android:name
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:18:25-75
+action#android.intent.action.PACKAGE_CHANGED
+ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:19:17-80
+	android:name
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:19:25-77
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:20:17-80
+	android:name
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml:20:25-77
+uses-sdk
+INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml
+INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d0af8a58d55f48ec3cd41ebc061b58dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/48d5557d11f9ee8e7ffddf0ec2430ef2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/48d5557d11f9ee8e7ffddf0ec2430ef2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/94261568666a5fdee4eddc7e1827dc76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/94261568666a5fdee4eddc7e1827dc76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/7e4049116c0b67a60f9b687fe3797037/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/7e4049116c0b67a60f9b687fe3797037/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/fac42ed934f299ea7914e29d7a1a8657/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/fac42ed934f299ea7914e29d7a1a8657/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/42a413f464d54c5dd0b129cd5a9589f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/42a413f464d54c5dd0b129cd5a9589f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/02de263c77e1aaffcf807a6bd87dce21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/02de263c77e1aaffcf807a6bd87dce21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/205886c45b789d959df938c21d558445/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/205886c45b789d959df938c21d558445/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/631e6f453a4689d8c0d85e04d32fa950/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/631e6f453a4689d8c0d85e04d32fa950/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml
+INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml
+		ADDED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nuhkoca/Desktop/suitepad-app/src/main/AndroidManifest.xml

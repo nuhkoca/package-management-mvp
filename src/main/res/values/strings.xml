@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Package List</string>
+
+    <string name="is_uninstalled_message">is uninstalled</string>
+    <string name="is_installed_message">is installed</string>
+    <string name="is_changed_message">is changed</string>
+    <string name="launching_package_message">Launching package:</string>
+    <string name="uninstalling_package_message">Uninstalling package:</string>
+    <string name="changing_package_message">Changing package:</string>
+    <string name="application_icon">Application Icon</string>
+    <string name="launch">Launch</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="package_image_view_description">PackageImageView</string>
+
+    <!-- Place Holders -->
+    <string name="pkg_label">pkg_label</string>
+    <string name="pkg_name">pkg_name</string>
+    <string name="pkg_version">pkg_version</string>
+    <string name="pkg_versionCode">pkg_versionCode</string>
+    <string name="pkg_launch">Launch</string>
+    <string name="pkg_uninstall">Uninstall</string>
+    <string name="pkg_change">Change</string>
+</resources>
