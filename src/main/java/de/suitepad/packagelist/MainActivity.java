@@ -1,6 +1,5 @@
 package de.suitepad.packagelist;
 
-import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.ListView;
@@ -12,8 +11,7 @@ import de.suitepad.packagelist.view.PackageView;
 
 public class MainActivity extends AppCompatActivity implements PackageView {
 
-    @SuppressLint("StaticFieldLeak")
-    public static MainActivity instance;
+    private static MainActivity instance;
 
     public static MainActivity getInstance() {
         return instance;
