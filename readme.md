@@ -15,7 +15,9 @@ Good luck! We're eager to hear from you.
 # This project uses
 
 * MVP Design Pattern
-* Latest technologies
+* Glide Module
+* BindingAdapter
+* Timber
 
 
 # Project Purpose
