@@ -17,14 +17,11 @@ public class MainActivity extends AppCompatActivity implements PackageView {
         return instance;
     }
 
-    private Popper popper;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         instance = this;
-        popper = Popper.create(this);
 
         ListView listView = findViewById(R.id.package_list);
 
@@ -32,15 +29,15 @@ public class MainActivity extends AppCompatActivity implements PackageView {
         packagePresenter.populatePackages(listView);
     }
 
-    public void onPackageUninstalled(String pkgName) {
+    public void onPackageUninstalled(Popper popper, String pkgName) {
         popper.popup(pkgName, R.string.is_uninstalled_message);
     }
 
-    public void onPackageInstalled(String pkgName) {
+    public void onPackageInstalled(Popper popper, String pkgName) {
         popper.popup(pkgName, R.string.is_installed_message);
     }
 
-    public void onPackageChanged(String pkgName) {
+    public void onPackageChanged(Popper popper, String pkgName) {
         popper.popup(pkgName, R.string.is_changed_message);
     }
 }

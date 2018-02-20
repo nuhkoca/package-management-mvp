@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:clickable="false" >
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <data>
+        <variable
+            name="pkgData"
+            type="de.suitepad.packagelist.model.Pkg" />
+    </data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false">
 
     <ImageView
         android:id="@+id/pkg_icon"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        app:srcCompat="@mipmap/ic_launcher"
+        android:src="@{pkgData.resId, default=@drawable/ic_launcher}"
+        android:scaleType="centerCrop"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
@@ -86,3 +93,4 @@
     </LinearLayout>
 
 </RelativeLayout>
+</layout>

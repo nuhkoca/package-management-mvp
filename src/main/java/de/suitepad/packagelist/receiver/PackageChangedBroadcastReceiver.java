@@ -27,13 +27,13 @@ public class PackageChangedBroadcastReceiver extends BroadcastReceiver {
             if (intent.getAction() != null) {
                 switch (intent.getAction()) {
                     case PACKAGE_ADDED:
-                        MainActivity.getInstance().onPackageInstalled(pkgName);
+                        MainActivity.getInstance().onPackageInstalled(null, pkgName);
                         break;
                     case PACKAGE_REMOVED:
-                        MainActivity.getInstance().onPackageUninstalled(pkgName);
+                        MainActivity.getInstance().onPackageUninstalled(null, pkgName);
                         break;
                     case PACKAGE_CHANGED:
-                        MainActivity.getInstance().onPackageChanged(pkgName);
+                        MainActivity.getInstance().onPackageChanged(null, pkgName);
                         break;
                     default:
                         break;

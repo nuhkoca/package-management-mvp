@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+    
+                 
+                          
+                                                       
+           
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false" android:tag="layout/list_item_package_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:id="@+id/pkg_icon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:tag="binding_1"       
+        android:scaleType="centerCrop"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:contentDescription="@string/package_image_view_description" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/pkg_icon"
+        android:layout_toRightOf="@+id/pkg_icon"
+        android:orientation="vertical"
+        android:paddingTop="10dp">
+
+        <TextView
+            android:id="@+id/pkg_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/pkg_label"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/pkg_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/pkg_name" />
+
+        <TextView
+            android:id="@+id/pkg_version"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/pkg_version" />
+
+        <TextView
+            android:id="@+id/pkg_versionCode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/pkg_versionCode" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/pkg_launch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pkg_launch"
+                style="?android:attr/buttonStyle"/>
+
+            <Button
+                android:id="@+id/pkg_uninstall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pkg_uninstall"
+                style="?android:attr/buttonStyle"/>
+
+            <Button
+                android:id="@+id/pkg_change"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pkg_change"
+                style="?android:attr/buttonStyle"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
+         

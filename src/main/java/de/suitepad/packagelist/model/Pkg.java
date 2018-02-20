@@ -5,20 +5,26 @@ package de.suitepad.packagelist.model;
  */
 
 public class Pkg {
+    private int resId;
     private String versionName;
     private int versionCode;
     private String name;
     private String label;
 
-    public static Pkg create(String name, String label, String versionName, int versionCode) {
-        return new Pkg(name, label, versionName, versionCode);
+    public static Pkg create(int resId, String name, String label, String versionName, int versionCode) {
+        return new Pkg(resId, name, label, versionName, versionCode);
     }
 
-    private Pkg(String name, String label, String versionName, int versionCode) {
+    private Pkg(int resId, String name, String label, String versionName, int versionCode) {
+        this.resId = resId;
         this.versionName = versionName;
         this.versionCode = versionCode;
         this.name = name;
         this.label = label;
+    }
+
+    public int getResId() {
+        return resId;
     }
 
     public String getVersionName() {

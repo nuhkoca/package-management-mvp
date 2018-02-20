@@ -49,7 +49,7 @@ public class PackagePresenterImpl implements PackagePresenter {
         final List<PackageInfo> packages = pm.getInstalledPackages(PackageManager.GET_META_DATA);
 
         for (PackageInfo packageInfo : packages) {
-            pkgList.add(Pkg.create(packageInfo.packageName, packageInfo.packageName, packageInfo.versionName, packageInfo.versionCode));
+            pkgList.add(Pkg.create(R.drawable.ic_launcher, packageInfo.packageName, packageInfo.packageName, packageInfo.versionName, packageInfo.versionCode));
         }
     }
 
@@ -88,7 +88,7 @@ public class PackagePresenterImpl implements PackagePresenter {
                     @Override
                     public void onClick(View v) {
                         popper.popup(R.string.uninstalling_package_message, p.getName());
-                        packageView.onPackageUninstalled(p.getName());
+                        packageView.onPackageUninstalled(popper, p.getName());
                     }
                 });
 
@@ -97,7 +97,7 @@ public class PackagePresenterImpl implements PackagePresenter {
                     @Override
                     public void onClick(View v) {
                         popper.popup(R.string.launching_package_message, p.getName());
-                        packageView.onPackageInstalled(p.getName());
+                        packageView.onPackageInstalled(popper, p.getName());
                     }
                 });
 
@@ -106,7 +106,7 @@ public class PackagePresenterImpl implements PackagePresenter {
                     @Override
                     public void onClick(View v) {
                         popper.popup(R.string.changing_package_message, p.getName());
-                        packageView.onPackageChanged(p.getName());
+                        packageView.onPackageChanged(popper, p.getName());
                     }
                 });
             }
