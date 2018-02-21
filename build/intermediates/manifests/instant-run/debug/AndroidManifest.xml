@@ -9,6 +9,7 @@
         android:targetSdkVersion="27" />
 
     <application
+        android:name="de.suitepad.packagelist.App"
         android:allowBackup="true"
         android:debuggable="true"
         android:fullBackupContent="@xml/backup"

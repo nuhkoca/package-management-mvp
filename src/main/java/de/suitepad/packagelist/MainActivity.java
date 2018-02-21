@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements PackageView {
 
         ListView listView = findViewById(R.id.package_list);
 
-        PackagePresenter packagePresenter = new PackagePresenterImpl(this, this);
+        PackagePresenter packagePresenter = new PackagePresenterImpl(this);
         packagePresenter.populatePackages(listView);
     }
 

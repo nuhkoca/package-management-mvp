@@ -72,6 +72,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="@string/pkg_launch"
+                android:maxLines="1"
                 style="?android:attr/buttonStyle"/>
 
             <Button
@@ -80,6 +81,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="@string/pkg_uninstall"
+                android:maxLines="1"
                 style="?android:attr/buttonStyle"/>
 
             <Button
@@ -88,6 +90,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="@string/pkg_change"
+                android:maxLines="1"
                 style="?android:attr/buttonStyle"/>
         </LinearLayout>
     </LinearLayout>

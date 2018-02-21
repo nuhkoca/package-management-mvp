@@ -7,6 +7,7 @@ import android.net.Uri;
 import android.support.annotation.NonNull;
 
 import de.suitepad.packagelist.MainActivity;
+import de.suitepad.packagelist.util.Popper;
 
 /**
  * Created by tarek on 4/6/17.
@@ -18,22 +19,25 @@ public class PackageChangedBroadcastReceiver extends BroadcastReceiver {
     private static final String PACKAGE_REMOVED = "android.intent.action.PACKAGE_REMOVED";
     private static final String PACKAGE_CHANGED = "android.intent.action.PACKAGE_CHANGED";
 
+
     @Override
     public void onReceive(Context context, Intent intent) {
         Uri data = intent.getData();
         String pkgName = removePackage(data);
 
+        Popper popper = Popper.create(context);
+
         if (MainActivity.getInstance() != null) {
             if (intent.getAction() != null) {
                 switch (intent.getAction()) {
                     case PACKAGE_ADDED:
-                        MainActivity.getInstance().onPackageInstalled(null, pkgName);
+                        MainActivity.getInstance().onPackageInstalled(popper, pkgName);
                         break;
                     case PACKAGE_REMOVED:
-                        MainActivity.getInstance().onPackageUninstalled(null, pkgName);
+                        MainActivity.getInstance().onPackageUninstalled(popper, pkgName);
                         break;
                     case PACKAGE_CHANGED:
-                        MainActivity.getInstance().onPackageChanged(null, pkgName);
+                        MainActivity.getInstance().onPackageChanged(popper, pkgName);
                         break;
                     default:
                         break;

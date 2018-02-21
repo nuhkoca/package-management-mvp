@@ -140,7 +140,7 @@ public class ListItemPackageBinding extends android.databinding.ViewDataBinding 
         if ((dirtyFlags & 0x3L) != 0) {
             // api target 1
 
-            de.suitepad.packagelist.adapter.PackageIconsBindingAdapter.loadIcons(this.pkgIcon, pkgDataResId);
+            de.suitepad.packagelist.adapters.PackageIconsBindingAdapter.loadIcons(this.pkgIcon, pkgDataResId);
         }
     }
     // Listener Stub Implementations

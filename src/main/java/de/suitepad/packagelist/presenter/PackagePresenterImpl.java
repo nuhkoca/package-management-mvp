@@ -16,6 +16,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
+import de.suitepad.packagelist.App;
 import de.suitepad.packagelist.R;
 import de.suitepad.packagelist.model.Pkg;
 import de.suitepad.packagelist.util.Popper;
@@ -27,25 +28,23 @@ import de.suitepad.packagelist.view.PackageView;
 
 public class PackagePresenterImpl implements PackagePresenter {
 
-    private Context context;
     private Popper popper;
     private PackageView packageView;
 
-    public PackagePresenterImpl(PackageView packageView, Context context) {
-        this.context = context;
+    public PackagePresenterImpl(PackageView packageView) {
         this.packageView = packageView;
-        this.popper = Popper.create(context);
+        this.popper = Popper.create(App.getInstance());
     }
 
     @Override
     public void populatePackages(final ListView listView) {
         ArrayList<Pkg> pkgList = new ArrayList<>();
 
-        PackageListAdapter packageListAdapter = new PackageListAdapter(context, pkgList);
+        PackageListAdapter packageListAdapter = new PackageListAdapter(App.getInstance(), pkgList);
         listView.setAdapter(packageListAdapter);
 
         pkgList.clear();
-        PackageManager pm = context.getPackageManager();
+        PackageManager pm = App.getInstance().getPackageManager();
         final List<PackageInfo> packages = pm.getInstalledPackages(PackageManager.GET_META_DATA);
 
         for (PackageInfo packageInfo : packages) {
