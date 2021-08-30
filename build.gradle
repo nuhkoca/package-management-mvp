@@ -62,5 +62,5 @@ dependencies {
     implementation "com.android.support:appcompat-v7:$rootProject.ext.supportLibraryVersion"
     implementation "com.android.support:support-v4:$rootProject.ext.supportLibraryVersion"
     implementation 'com.android.support.constraint:constraint-layout:2.0.4'
-    testCompile 'junit:junit:4.12'
+    testCompile 'junit:junit:4.13.2'
 }
