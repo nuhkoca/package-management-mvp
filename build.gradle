@@ -19,7 +19,7 @@ allprojects {
 
 ext {
     supportLibraryVersion = '27.0.2'
-    glideVersion = '4.6.1'
+    glideVersion = '4.14.2'
 }
 
 android {
